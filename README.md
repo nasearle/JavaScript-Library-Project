@@ -36,6 +36,5 @@ variable will refer to the object on which the method sits, so returning
 it makes the object's methods available to be called again.
 
 ### Using the Demo App:
-Copy Greetr.js, app.js, and index.html to your computer and open index.html 
-in a browser window. Enter your name, choose a language, and click Login to
-see a personalized greeting! 
+Clone the repo and open index.html in a browser window. Enter your name,
+choose a language, and click Login to see a personalized greeting! 
